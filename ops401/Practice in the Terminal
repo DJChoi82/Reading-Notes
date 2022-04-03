@@ -1,3 +1,7 @@
-The command line is a text based interface to the system. In linux the command line can be found in applications and utilities. The basic commands are pwd, ls, and cd. Pwd shows the current directory. Ls lists the contents in a directory. Cd will change to another directory. The ls -a command can list all the hidden directories.
-man <command> will show the manual for the command. man -k <search term> will search the manual with the keyword. mkdir will make a directory. rmdir will remove a directory. touch will create a file. cp will copy a file or directory. mv will move. rm will delete a file. 
-Linux is case sensitive. We have worked with the command line and I didn't know that the tab key will auto complete. 
+The command line is a text based interface to the system. In linux the command line can be found in applications and utilities. 
+The basic commands are pwd, ls, and cd. Pwd shows the current directory. Ls lists the contents in a directory. 
+Cd will change to another directory. The ls -a command can list all the hidden directories.
+man <command> will show the manual for the command. man -k <search term> will search the manual with the keyword. 
+mkdir will make a directory. rmdir will remove a directory. touch will create a file. cp will copy a file or directory. 
+mv will move. rm will delete a file. Linux is case sensitive. 
+We have worked with the command line and I didn't know that the tab key will auto complete. 
