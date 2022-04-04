@@ -1,1 +1,1 @@
-
+A relational database is a type of database that has a structure that can be used to access and identify another set of data in relation to another piece of data. The data is organized into tables. SQL is a programming language used to communicate with data in a relational database. SQL can get data from a database with filtering by anything on the database and sort it. It can also add or delete using a filter. 
