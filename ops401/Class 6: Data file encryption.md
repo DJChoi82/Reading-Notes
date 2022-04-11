@@ -1,1 +1,3 @@
+CIA triad is vital for secure file transfers. In order to secure a system the three CIA triad objectives need to be achieved. Confidentiality wlll restrict access by encrypting the data. Integrity will prevent data from being tampered by using hash or digital signatures. Availability will enable to accesibility of the data at all times by using high availability clusters. 
 
+Hashes are crytographic algorithms. Hashes are useful if the file is from a unofficial source and the legitimacy needs to be verified. MD5, SHA1, and SHA256 are different hash functions. SHA256 should be used when possible. 
