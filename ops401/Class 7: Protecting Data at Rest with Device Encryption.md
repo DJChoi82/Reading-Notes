@@ -1,0 +1,1 @@
+Data in transit is data that is moving from on e location to another. Data at rest is data that is not moving and stored on a drive or another way. Data is at risk at both in transit and at rest. There are multiple ways to protect data in transit and at rest. 
