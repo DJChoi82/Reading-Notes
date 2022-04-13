@@ -1,0 +1,1 @@
+Data loss prevention is tools and processes that ensure sensitive data is not lost, misused, or accessed by unauthorized users. DLP software monitors and controls endpoint activities to protect data. DLP helps with personal information protection, intellectual property protection, and data visibility.
