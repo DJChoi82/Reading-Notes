@@ -1,1 +1,1 @@
-
+PKI authenticates users and devices. It digitally signs documents certifying a key belongs to a user or device. It uses public and private key. PKI is used in SSL and TLS certificates in secure websites. PKI has limitations. There can be fraudulent certificates and any aythority can sign a certificate. 
