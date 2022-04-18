@@ -1,1 +1,1 @@
-
+Cybersecurity can be automated and should be implemented. There are tools like SOAR and RPA that automate and perofrm analysis. With automation machines can perform the mundane work. Automated incident response tools can respond to threats and intrusions. 
