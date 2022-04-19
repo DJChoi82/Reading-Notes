@@ -1,1 +1,1 @@
-
+SOC is a information security operations center in a centralized location to monitor, detect, analyze, and responds to cybersecurity incidents. The security team oversees the network to stop and prevent threats. 
