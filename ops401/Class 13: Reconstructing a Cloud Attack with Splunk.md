@@ -1,1 +1,1 @@
-Reverse proxy
+Reverse proxy server are in front of web servers and forwards clients to them and helps with security and performatnce. Resverse proxy helps with load balancing, attacks, caching, and ssl encryptions. 
